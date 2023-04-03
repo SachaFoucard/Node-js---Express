@@ -1,0 +1,109 @@
+ [{
+     "id": 1997,
+     "storeName": "Apple",
+     "city": "Tel-Aviv",
+     "items": [{
+             "id": 1,
+             "name": "Iphone",
+             "price": 3000,
+             "discount": 2000
+         },
+         {
+             "id": 2,
+             "name": "Samsung",
+             "price": 2000,
+             "discount": 1270
+         }, {
+             "id": 3,
+             "name": "Ipad",
+             "price": 2300,
+             "discount": 1145
+         }, {
+             "id": 4,
+             "name": "Mackbook",
+             "price": 4600,
+             "discount": 3550
+         }
+     ]
+ }, {
+     "id": 2000,
+     "storeName": "CarsEric",
+     "city": "Herzlia",
+     "items": [{
+             "id": 5,
+             "name": "Hopel",
+             "price": 11120,
+             "discount": 10000
+         },
+         {
+             "id": 6,
+             "name": "Renault",
+             "price": 10000,
+             "discount": 9000
+         }, {
+             "id": 7,
+             "name": "Mercedes",
+             "price": 30325,
+             "discount": 25000
+         }, {
+             "id": 8,
+             "name": "Nissan",
+             "price": 40000,
+             "discount": 37000
+         }
+     ]
+ }, {
+     "id": 2002,
+     "storeName": "Maxtop",
+     "city": "Haifa",
+     "items": [{
+             "id": 9,
+             "name": "tousers",
+             "price": 20,
+             "discount": 10
+         },
+         {
+             "id": 10,
+             "name": "Mirror",
+             "price": 50,
+             "discount": 30
+         }, {
+             "id": 11,
+             "name": "Classor",
+             "price": 100,
+             "discount": 85
+         }, {
+             "id": 12,
+             "name": "Papers",
+             "price": 10,
+             "discount": 8
+         }
+     ]
+ }, {
+     "id": 2007,
+     "storeName": "OvedSabih",
+     "city": "Ramat-Gan",
+     "items": [{
+             "id": 13,
+             "name": "Falafel",
+             "price": 50,
+             "discount": 30
+         },
+         {
+             "id": 14,
+             "name": "Sabih",
+             "price": 40,
+             "discount": 30
+         }, {
+             "id": 15,
+             "name": "shawarma",
+             "price": 20,
+             "discount": 10
+         }, {
+             "id": 16,
+             "name": "hamba",
+             "price": 10,
+             "discount": 5
+         }
+     ]
+ }]
